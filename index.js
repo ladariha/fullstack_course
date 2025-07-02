@@ -1,4 +1,4 @@
-console.log("AHOJ TADY TADY");
+// console.log("AHOJ TADY TADY");
 
 
 // Add initial file
