@@ -1,4 +1,4 @@
-console.log("AHOJ TADY TADY");
+console.log("AHOJ TADY TADY TADY");
 
 
 // Add initial file
@@ -7,3 +7,5 @@ console.log("AHOJ TADY TADY");
 
 // novy radek
 console.log(new Date());
+console.log(1);
+console.log(2);
