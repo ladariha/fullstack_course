@@ -1,9 +1,7 @@
-console.log("AHOJ TADY TADY TADY");
-
+console.log('AHOJ TADY TADY TADY');
 
 // Add initial file
 // Pridan prvni soubor
-
 
 // novy radek
 console.log(new Date());
